@@ -1,0 +1,13 @@
+# File: requirements.txt
+torch
+transformers
+pretty_midi
+# music21 # Not directly used in the provided scripts, but often useful for MIDI tasks
+pandas
+numpy
+matplotlib # For notebooks/visualization, not core scripts
+scipy      # For notebooks/advanced analysis, not core scripts
+spotipy
+python-dotenv
+tqdm
+requests
